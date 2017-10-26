@@ -19,8 +19,8 @@ int main()
 			denemeB = aralikBas%denemeA;
 			if (denemeB==0)
 			{
-				//hangi bölenlerinin sıfıra eşit olduğunu gösteren komut
-				//printf("%d bu bölende sifirdi\n", denemeA);
+				//hangi bÃ¶lenlerinin sÄ±fÄ±ra eÅŸit olduÄŸunu gÃ¶steren komut
+				//printf("%d bu bÃ¶lende sifirdi\n", denemeA);
 
 				mukemmelSayi = denemeA+mukemmelSayi;
 			}
