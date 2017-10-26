@@ -54,7 +54,7 @@ int main()
 	}
 	if (buyuk==orta||orta==kucuk||buyuk==kucuk)
 	{
-		printf("sayilari esit girdiniz\n");
+		printf("sayilardan ikisini veya hepsini esit girdiniz\n");
 	}
 	else
 	{
