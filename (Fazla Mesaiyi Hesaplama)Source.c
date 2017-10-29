@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-	//-----------------------------------------Daha kısa ve sadece bir günü hesaplayan bir program---------------------
+	//-----------------------------------------Daha kÄ±sa ve sadece bir gÃ¼nÃ¼ hesaplayan bir program---------------------
 	
 	int kacSaatCalistiniz = 0,sifirOnSaateVerilecek=5,onYirmiSaateVerilecek=3,yirmiSaattenFazlayaVerilecek=2,maas=0,fark,fark2=0;
 	printf("Kac saat calistiniz ");
@@ -27,15 +27,15 @@ int main()
 	printf("%d", maas);
 	
 
-	//----------------------1 ay içerisinde kaç gün ve kaç saat mesai yaptığını da alıp hesaplayan program-----------------
+	//----------------------1 ay iÃ§erisinde kaÃ§ gÃ¼n ve kaÃ§ saat mesai yaptÄ±ÄŸÄ±nÄ± da alÄ±p hesaplayan program-----------------
 	/*
 	int normalSaatBasi = 0, onSaat = 0, onIleYirmiSaat = 0, yirmidenFazla = 0;
 	int normalMesai = 0,fazladanOnSaatMesai=0,fazladanYirmiSaatMesai,fazladanYirmiSaattenFazla=0;
 	printf("Normal saat basina ne kadar verilecek ");
 	scanf_s("%d", &normalSaatBasi);
-	printf("0 ile 10 saat arasında fazladan mesai yapana saat basi verilecek ");
+	printf("0 ile 10 saat arasÄ±nda fazladan mesai yapana saat basi verilecek ");
 	scanf_s("%d", &onSaat);
-	printf("10 ile 20 saat arasında fazladan mesai yapana saat basi verilecek ");
+	printf("10 ile 20 saat arasÄ±nda fazladan mesai yapana saat basi verilecek ");
 	scanf_s("%d", &onIleYirmiSaat);
 	printf("20 saatten fazladan mesai yapana saat basi verilecek ");
 	scanf_s("%d", &yirmidenFazla);
@@ -53,8 +53,8 @@ int main()
 	printf("Normal mesailerinden kazandigin = %d, \nFazladan mesailerle kazandigin= %d \nToplam= %d", a,b,c);
 	*/
 	//-----------------------------------------------------------------------------------------------------
-	/*switch case yöntemi zahmet isteyen ve tüm değerleri girmenizi gerektiren
-	bir yöntem olduğu için ben sadece öğrenme amaçlı yaptım*/
+	/*switch case yÃ¶ntemi zahmet isteyen ve tÃ¼m deÄŸerleri girmenizi gerektiren
+	bir yÃ¶ntem olduÄŸu iÃ§in ben sadece Ã¶ÄŸrenme amaÃ§lÄ± yaptÄ±m*/
 	/*
 	int kacSaatCalistiniz;
 	printf("kac saat calistiniz");
