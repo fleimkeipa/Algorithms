@@ -40,7 +40,7 @@ int asagiKaydir(int dizi[5][5],int a,int b)
 	}
 	return dizi;
 }
-//bütün xlerin en aşşağıya indiğini kontrol ediyor.
+//bÃ¼tÃ¼n xlerin en aÃ¾Ã¾aÃ°Ã½ya indiÃ°ini kontrol ediyor.
 int kontrol(int dizi[5][5])
 {
 	if (dizi[4][0] == 120 && dizi[4][1] == 120 && dizi[4][2] == 120 && dizi[4][4] == 120)
